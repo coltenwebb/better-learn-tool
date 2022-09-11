@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/better-learn-tool/static/css/main.986ca7ff.css",
+    "main.js": "/better-learn-tool/static/js/main.dcfc4f03.js",
+    "static/js/787.08472da8.chunk.js": "/better-learn-tool/static/js/787.08472da8.chunk.js",
+    "static/media/logo.svg": "/better-learn-tool/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/better-learn-tool/index.html",
+    "main.986ca7ff.css.map": "/better-learn-tool/static/css/main.986ca7ff.css.map",
+    "main.dcfc4f03.js.map": "/better-learn-tool/static/js/main.dcfc4f03.js.map",
+    "787.08472da8.chunk.js.map": "/better-learn-tool/static/js/787.08472da8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.986ca7ff.css",
+    "static/js/main.dcfc4f03.js"
+  ]
+}
