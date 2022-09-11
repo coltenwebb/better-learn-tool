@@ -1,0 +1,12 @@
+.subject {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.subject.selected {
+  background: lightblue;
+}
+
+.subject.hovering {
+  background: lightgray;
+}
